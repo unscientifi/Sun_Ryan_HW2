@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#EAEAEA;}
+	.st2{display:inline;fill:#DD2424;}
+	.st3{display:inline;fill:#EFCE4A;}
+	.st4{display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st6{display:inline;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st7{display:inline;fill:#3FA9F5;}
+	.st8{display:inline;fill:#FF931E;stroke:#FF931E;stroke-width:2;stroke-miterlimit:10;}
+	.st9{display:inline;fill:none;stroke:#A67C52;stroke-width:3;stroke-miterlimit:10;}
+	.st10{display:inline;fill:#808080;stroke:#808080;stroke-width:3;stroke-miterlimit:10;}
+	.st11{display:inline;fill:none;stroke:#808080;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g id="_x31_.Heart" class="st0">
+	<circle id="bg" class="st1" cx="218.5" cy="305.5" r="104.5"/>
+	<path id="heart" class="st2" d="M219,383l66-67c0,0,30-30-9-61c0,0-39-21-57,15c0,0-33-43-69-6c0,0-21,19,0,52L219,383z"/>
+</g>
+<g id="_x32_.Star" class="st0">
+	<polygon class="st3" points="450.1,359.5 394.5,285.9 302.2,290.1 355,214.3 322.6,127.9 410.9,154.7 483.1,97.2 484.9,189.5 
+		561.9,240.3 474.7,270.5 	"/>
+</g>
+<g id="_x33_._Letter" class="st0">
+	<rect x="384.8" y="293" class="st4" width="110.4" height="140.1"/>
+	<line class="st5" x1="402.3" y1="345" x2="482.7" y2="345"/>
+	<line class="st5" x1="402.3" y1="357.6" x2="455.1" y2="357.6"/>
+	<line class="st5" x1="402.3" y1="372.7" x2="473.9" y2="372.7"/>
+	<line class="st5" x1="402.3" y1="389" x2="462.6" y2="389"/>
+	<line class="st5" x1="401" y1="404.1" x2="484" y2="404.1"/>
+	<polygon class="st5" points="393,317 393,302 408.5,302 	"/>
+</g>
+<g id="_x34_._Cursor" class="st0">
+	<circle id="bg_2_" class="st1" cx="439.5" cy="362.5" r="104.5"/>
+	<polygon id="shape" class="st6" points="483.5,311.5 375.5,388.5 429.5,378.5 441.5,427.5 	"/>
+</g>
+<g id="_x35_._Place" class="st0">
+	<circle id="bg_3_" class="st1" cx="187.5" cy="554.5" r="104.5"/>
+	<path id="spot" class="st2" d="M190,624c0,0-76.7-58.3-47.9-104.7c0,0,30-33.1,67.9-14.7c37.9,18.4,27.4,56.8,27.4,56.8
+		S228.5,594.5,190,624z"/>
+	<circle id="circle" class="st1" cx="187.5" cy="554.5" r="27.5"/>
+</g>
+<g id="_x36_._Talk" class="st0">
+	<polygon class="st1" points="105,211 105,288 161,288 125,313 187,291 237,291 237,211 	"/>
+	<polygon class="st7" points="177,236 177,313 233,313 197,338 259,316 309,316 309,236 	"/>
+	<circle class="st1" cx="217.5" cy="275.5" r="8.5"/>
+	<circle class="st1" cx="249.5" cy="275.5" r="8.5"/>
+	<circle class="st1" cx="280.5" cy="275.5" r="8.5"/>
+</g>
+<g id="_x37_._Exclamation" class="st0">
+	<circle id="bg_1_" class="st1" cx="430.5" cy="349.5" r="57.5"/>
+	<polygon class="st8" points="418,306.2 442.6,306.2 433.3,356.8 	"/>
+	<circle class="st8" cx="433.9" cy="379.9" r="10.1"/>
+</g>
+<g id="_x38_._Key" class="st0">
+	<circle class="st9" cx="401.5" cy="306.5" r="23.5"/>
+	<line class="st9" x1="401" y1="330" x2="401" y2="417"/>
+	<line class="st9" x1="401" y1="404" x2="415" y2="404"/>
+	<line class="st9" x1="401" y1="417" x2="425" y2="417"/>
+</g>
+<g id="_x39_._Pen" class="st0">
+	<rect x="253.5" y="323.5" class="st10" width="20" height="20"/>
+	<rect x="282.5" y="323.5" class="st10" width="132" height="20"/>
+	<polygon class="st10" points="423.5,323.5 423.5,343.5 446.5,333.5 	"/>
+</g>
+<g id="_x31_0._House" class="st0">
+	<line class="st11" x1="287.5" y1="304.5" x2="352.5" y2="256.5"/>
+	<line class="st11" x1="419.1" y1="299.2" x2="350.9" y2="255.8"/>
+	<polyline class="st11" points="304.5,310.5 304.5,365.5 334.5,365.5 334.5,337.5 374.5,337.5 374.5,365.5 409.5,365.5 409.5,310.5 
+			"/>
+	<rect x="336.5" y="294.5" class="st10" width="42" height="21"/>
+</g>
+</svg>

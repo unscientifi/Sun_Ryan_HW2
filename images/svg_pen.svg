@@ -1,0 +1,16 @@
+<svg id="_9._Pen" data-name="9. Pen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198.26 24.58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+        stroke: gray;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>svg_pen</title>
+  <rect class="cls-1" x="1.5" y="2.29" width="20" height="20"/>
+  <rect class="cls-1" x="30.5" y="2.29" width="132" height="20"/>
+  <polygon class="cls-1" points="171.5 2.29 171.5 22.29 194.5 12.29 171.5 2.29"/>
+</svg>

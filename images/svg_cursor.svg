@@ -1,0 +1,19 @@
+<svg id="_4._Cursor" data-name="4. Cursor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 209 209">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>svg_cursor</title>
+  <circle id="bg" class="cls-1" cx="104.5" cy="104.5" r="104.5"/>
+  <polygon id="shape" class="cls-2" points="148.5 53.5 40.5 130.5 94.5 120.5 106.5 169.5 148.5 53.5"/>
+</svg>

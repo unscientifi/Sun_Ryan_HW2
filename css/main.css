@@ -1,0 +1,18 @@
+main {text-align: center;}
+.container
+{
+  display: inline-block;
+}
+
+.second
+{
+	backface-visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.second:hover
+{
+    transform: rotateY(180deg);
+}

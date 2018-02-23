@@ -1,0 +1,19 @@
+<svg id="_6._Talk" data-name="6. Talk" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204 127">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-2 {
+        fill: #3fa9f5;
+      }
+    </style>
+  </defs>
+  <title>svg_talk</title>
+  <polygon class="cls-1" points="0 0 0 77 56 77 20 102 82 80 132 80 132 0 0 0"/>
+  <polygon class="cls-2" points="72 25 72 102 128 102 92 127 154 105 204 105 204 25 72 25"/>
+  <circle class="cls-1" cx="112.5" cy="64.5" r="8.5"/>
+  <circle class="cls-1" cx="144.5" cy="64.5" r="8.5"/>
+  <circle class="cls-1" cx="175.5" cy="64.5" r="8.5"/>
+</svg>

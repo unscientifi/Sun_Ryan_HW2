@@ -1,0 +1,20 @@
+<svg id="_7._Exclamation" data-name="7. Exclamation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115 115">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-2 {
+        fill: #ff931e;
+        stroke: #ff931e;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>svg_ exclamation</title>
+  <circle id="bg" class="cls-1" cx="57.5" cy="57.5" r="57.5"/>
+  <polygon class="cls-2" points="45 14.22 69.56 14.22 60.35 64.78 45 14.22"/>
+  <circle class="cls-2" cx="60.89" cy="87.89" r="10.11"/>
+</svg>

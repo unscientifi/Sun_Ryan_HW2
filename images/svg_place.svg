@@ -1,0 +1,17 @@
+<svg id="_5._Place" data-name="5. Place" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 209 209">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-2 {
+        fill: #dd2424;
+      }
+    </style>
+  </defs>
+  <title>svg_place</title>
+  <circle id="bg" class="cls-1" cx="104.5" cy="104.5" r="104.5"/>
+  <path id="spot" class="cls-2" d="M190,624s-76.68-58.34-47.88-104.7c0,0,30-33.15,67.87-14.73s27.36,56.82,27.36,56.82S228.46,594.54,190,624Z" transform="translate(-83 -450)"/>
+  <circle id="circle" class="cls-1" cx="104.5" cy="104.5" r="27.5"/>
+</svg>
